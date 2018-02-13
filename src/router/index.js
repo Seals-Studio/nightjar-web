@@ -5,11 +5,17 @@ import QRCode from '@/views/QRCode'
 Vue.use(Router)
 
 export default new Router({
+  // mode: 'history',
+  base: '/nightjar',
   routes: [
     {
-      path: '/',
+      path: '/home',
       name: 'QRCode',
       component: QRCode
+    },
+    {
+      path: '*',
+      redirect: '/home'
     }
   ]
 })
