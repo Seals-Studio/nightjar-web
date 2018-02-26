@@ -1,0 +1,1 @@
+∞—dis-package.tar.gzΩ‚—πµΩ/usr/local/lib/python2.7

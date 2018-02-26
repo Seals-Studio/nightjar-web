@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=智影未来二维码扫描
+GenericName=智影未来二维码扫描桌面工具
+Comment=智影未来二维码扫描桌面工具
+Exec=/home/pi/liupan/zywlQRTool.py
+Icon=/home/pi/liupan/china.png
+Terminal=false
+Categories=Demo
